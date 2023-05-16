@@ -4,10 +4,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardosilvasx&show_icons=true&theme=radical)
 
-<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardosilvasx&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
- 
- <br>
+
 
  ### Redes Sociais
  <br>
