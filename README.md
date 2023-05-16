@@ -1,4 +1,4 @@
-### Olá Bem vindo(a) ao meu perfil!
+### Bem-vindo(a) ao perfil meu perfil !
 
 <br>
 
@@ -8,9 +8,10 @@
 
 
 
- ### Redes Sociais
- <br>
+ ## Contatos:
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-da-rocha-silva-810346207)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rs030899@gmail.com)
-
+<div>
+ 
+<a href = "mailto:rs030899@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/ricardo-da-rocha-silva-810346207" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
